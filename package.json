@@ -1,6 +1,6 @@
 {
   "name": "devto-to-markdown",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "CLI Tool that convery a dev.to post to markdown",
   "main": "index.js",
   "scripts": {
